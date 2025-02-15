@@ -182,7 +182,7 @@ import psycopg2
 # Database connection parameters
 DB_NAME = "postgres"
 DB_USER = "postgres"
-DB_PASSWORD = "GEsH@30122005"  # Replace with your password
+DB_PASSWORD = "********"  # Replace with your password
 DB_HOST = "localhost"
 DB_PORT = "5432"  # Default PostgreSQL port
 
