@@ -1,6 +1,8 @@
 import streamlit as st
 import pandas as pd
 
+@st.cache_data
+
 # Title and introduction
 st.set_page_config(page_title="Bus Finder", layout="wide")
 st.title("🚌Bus Finder")
